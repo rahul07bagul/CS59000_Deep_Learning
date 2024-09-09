@@ -1,1 +1,1 @@
-# CS59000_App_Deep_Learning_Assignment
+# CS59000- Deep Learning Assignments
